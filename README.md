@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shriu1994
+- 👋 Hi, I’m @Shrini_IITH
 - 👀 I’m interested in Software developer Engineer field
 - 🌱 I’m currently learning DSA Python, Django
 - 💞️ I’m looking to collaborate on Python Projects
